@@ -1,0 +1,7 @@
+= Preparation
+
+Welcome to the workshop. I’m _Thomas Mak_. You may find these workshop slides at http://flexbox.website[Flexbox.website]. Make sure you have the latest modern browsers and your favorite code editor ready.
+
+include::sections/about-makzan.adoc[]
+
+include::sections/preparing.adoc[]

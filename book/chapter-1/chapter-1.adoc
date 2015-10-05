@@ -1,13 +1,11 @@
-= Chapter 1
+= Chapter 1—Introducing Flexbox
 
-Pending Content.
+include::sections/flex-direction.adoc[]
 
-image::images/sample-image.png[Sample Image]
+include::sections/center-align.adoc[]
 
-== Section Here
+include::sections/container-and-items.adoc[]
 
-Pending Content.
+include::sections/flex-grow-and-shrink.adoc[]
 
-== Section Here
-
-Pending Content.
+include::sections/inputs.adoc[]
