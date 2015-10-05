@@ -1,0 +1,19 @@
+= Flexbox.website
+
+This is a short book about building website layout with Flexbox.
+
+== Installation
+
+----
+bundle install
+----
+
+== Building
+
+run `rake` to build book.
+
+run `rake book:build_chapter_html` to build each chapter into HTML file.
+
+== Lincense
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License
